@@ -96,10 +96,6 @@ _ ＿
 (()) ()
 () （）
 )) )
-y= ￥
-c1 ￠
-l- ￡
-lm ￡
 <= ≦
 >= ≧
 =/ ≠
@@ -282,6 +278,10 @@ lm ￡
 @ ＠
 @@ @
 s| $
+c1 ￠
+y= ￥
+l- ￡
+lm ￡
 $ ＄
 & ＆
 % ％
@@ -23826,7 +23826,7 @@ _  ˍ
 1mr 鼎力路
 1mr 北屯路
 1mr 鼎正路
-1mr.畫史
+1mr. 畫史
 1mr1 北平路一段
 1mr2 北平路二段
 1mr3 北平路三段
@@ -33185,7 +33185,7 @@ _  ˍ
 7d 寨
 7d 窠
 7d 髁
-7d,安東街
+7d, 安東街
 7d, 安東省
 7d,, 守株待兔
 7d,, 完整無缺
@@ -36855,7 +36855,7 @@ _  ˍ
 9gmn 聖功
 9gmo 聖歌
 9gmw 陣地要圖
-9gmy陛下
+9gmy 陛下
 9gmy 墜下
 9go 聖人
 9go 墜入
@@ -47012,7 +47012,7 @@ dman 極易
 dmao 本是
 dmar 查問
 dmb 本月
-dmb,極少
+dmb, 極少
 dmb8 極具
 dmb9 樁腳
 dmbr 本周
@@ -50302,7 +50302,7 @@ e;ot 薄餅
 e;pb 薄情
 e;qx 薄技
 e;sw 薄眉
-e;ta薄暮
+e;ta 薄暮
 e;tb 薄荷
 e;w 薄田
 e;xx 泭
@@ -51042,7 +51042,7 @@ ebp 消費性
 ebp[ 滿懷
 ebq 淨手
 ebq 游手
-ebq1清掃
+ebq1 清掃
 ebqb 瀝膽披肝
 ebqd 清操
 ebqj 消掉
@@ -64957,7 +64957,6 @@ jrzn 右邊
 jrzs 截趾適屨
 jrzu 加路連山道
 jrzw 古道
-jrz
 jr[3 加緊
 jr]' 古巴
 jr]a 古書
@@ -65992,7 +65991,7 @@ k- 飆
 k-2 飆車
 k-6 大風雪
 k-e[ 飆漲
-k-ke大風大浪
+k-ke 大風大浪
 k-y 大凡
 k. 瓠
 k.' 大孔
@@ -67454,7 +67453,6 @@ l,[9 中興醫院
 l,`d 懸為厲禁
 l- 蛻
 l- 蜆
-l- ?
 l-' 中風
 l-3x 蛻變
 l-l 中風
@@ -76443,7 +76441,7 @@ mnd 一架
 mnda 馬槽
 mndb 馬桶
 mndb 刀柄
-mndi司機
+mndi 司機
 mndi 刀械
 mndo 馬來
 mndr 刀槍
@@ -77569,7 +77567,7 @@ mrrf 吞嚥
 mrrg 吞吐
 mrri 舌戰
 mrrm 吞噬
-mrrr石器
+mrrr 石器
 mrs 馴獸師
 mrsg 石屋
 mrsg 石壁
@@ -89158,7 +89156,7 @@ pnpd 恂慄
 pnpn 愕愕
 pnpn 惕惕
 pnpn 恂恂
-pnpn愣愣
+pnpn 愣愣
 pnrk 慟哭
 pnxx 忉
 pnxx 怐
@@ -112936,7 +112934,7 @@ y'`g 施壓
 y'`o 敦世厲俗
 y'`p 就應
 y'`z 龍庭
-y'`[疤痕
+y'`[ 疤痕
 y, 彰
 y, 彥
 y, 衫
@@ -121327,7 +121325,7 @@ z2om 連作
 z2or 連合
 z2ox 連假
 z2p 邏輯性
-z2p'連忙
+z2p' 連忙
 z2qm 邏輯推理
 z2qv 連接
 z2qx 運搬
