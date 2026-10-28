@@ -22,7 +22,7 @@
 
 此處的「上游副本」指取得時的來源版本；歷史原始詞庫的定義與授權範圍，請參閱隨附的公眾授權書。
 
-詳細來源、版本核對資訊及後續修改紀錄，請參閱 [UPSTREAM.md](UPSTREAM.md)。
+詳細來源、版本核對資訊及後續修改紀錄，請參閱 [UPSTREAM.md](upstream/UPSTREAM.md)。
 
 ## 三、適用授權與完整文件
 
@@ -31,7 +31,7 @@
 完整授權文件：
 
 - [《輕鬆資訊「輕鬆輸入法大詞庫」公眾授權書》](LICENSES/ezphrase.txt)
-- [GNU General Public License, version 2](LICENSES/GPL-2.0.txt)
+- [GNU General Public License, version 2](LICENSES/gpl.txt)
 
 重新散布時，須依適用條款隨附完整授權文件，並保留原有著作權、授權及免責聲明。本文件提供來源說明與文件索引，不取代完整授權條款。
 
